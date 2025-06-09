@@ -28,11 +28,19 @@ Fornecer **insights visuais e estratégicos** sobre os cursos da Udemy, com base
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
    cd nome-do-repositorio
 
+2. Instale as dependências do projeto:
+    ```bash
+    pip install streamlit pandas plotly.express
+
+3. Rode o projeto com o comando:
+    ```bash
+    streamlit run app.py
 ---
 
 ## Relatório dashboard de estatísticas - Cursos Udemy
 
 O que uma pessoa que quer criar conteúdo para Udemy pode tirar desses gráficos para se dar bem na questão das vendas?
+
 ## 1. Top 10 cursos com mais inscritos
 O que aprender:
 Esses cursos são benchmarks — títulos, temas e até descrições deles podem servir de inspiração.
