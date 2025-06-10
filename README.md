@@ -134,32 +134,3 @@ Usar o gratuito como isca: “Veja esse curso introdutório, e depois o completo
 
 
 Ficar atento à qualidade dos cursos gratuitos para se diferenciar com conteúdo premium.
-
-
-
-
-
-
-
-
-
-
-
-
-📌 Resumo: Estratégia para um criador vender mais na Udemy
-Dado observado
-Ação prática
-Tópicos populares
-Crie cursos em temas validados pelo mercado
-Categorias com preço médio alto
-Posicione seu curso nessas áreas, se possível
-Relação entre preço e inscritos
-Teste valores diferentes e use valor percebido a seu favor
-Níveis de dificuldade
-Aposte em nichos menos saturados (como intermediário/avançado)
-Duração ideal
-Seja direto, foque na qualidade e clareza
-Cursos gratuitos
-Use-os como marketing ou funil de entrada
-
-
